@@ -1,0 +1,20 @@
+[twl]
+# https://www.check24.de/strom/vergleich/check24/?totalconsumption=2500&zipcode=67063&city=Ludwigshafen&pid=24&pricing=month&product_id=1&calculationparameter_id=252fd1af341f294e56165223dae9c4c5
+arbeitspreis_cent_pro_kWh = 34.75
+grundpreis_euro_pro_jahr = 132.74
+
+# https://www.check24.de/gas/vergleich/check24/?totalconsumption=18000&zipcode=67063&city=Ludwigshafen&pid=24&pricing=month&product_id=2&calculationparameter_id=b7e931071d0aad52628987cb16d5b3a0
+gas_arbeitspreis_cent_pro_kwh = 16.09
+gas_grundpreis_euro_pro_jahr = 190.40
+
+# https://www.twl.de/privatkunden/meine-energie/wasser/trinkwasser/
+gesamt_wasser_grundpreis = 72.74
+arbeitspreis_trinkwasser_eur_m3 = 1.92
+
+[ludwigshafen]
+# https://www.ludwigshafen.de/buergernah/buergerservice/dienstleistungen-a-z/detail/services-detail/schmutzwassergebuehr/
+abwasser_preis_pro_m3 = 1.40
+
+
+
+
