@@ -5,8 +5,7 @@ abzuschätzen und zu visualisieren.
 
 Hilfsreiche Links:
 
-1. <a href=" https://www.lekker.de/energieladen/stromzaehler-ablesen-so-wirds-gemacht/
-">Wie liest man Stromzähler?<a>
+1. <a href=" https://www.lekker.de/energieladen/stromzaehler-ablesen-so-wirds-gemacht/">Wie liest man Stromzähler?<a>
 
 
   
